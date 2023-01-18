@@ -5,7 +5,7 @@ package calculadora;
 * Esta clase representa una calculadora básica.
 * Incluye métodos para sumar, restar, multiplicar y dividir.
 *
-* @author LUIS DAVID luisdavidwork26@gmail.com
+* @author LUIS DAVID m luisdavidwork26@gmail.com
 * @version 1.0
 */
 import java.util.Scanner;
